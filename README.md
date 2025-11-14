@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my research.**
 
-- 🌱 I’m currently learning **Federated Learning, Deep Learning**
+- 🌱 I’m currently learning **Federated Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vikashbhaskar007](https://github.com/vikashbhaskar007)
 
